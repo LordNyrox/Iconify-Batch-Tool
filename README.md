@@ -32,7 +32,7 @@ Iconify is a simple yet powerful desktop application for Windows that allows you
       * Click "Add Images" to select the images you want to turn into icons.
       * Click "Add Folders" to select the folders you want the icons applied to.
       * *Alternatively, you can drag and drop images and folders into the window.*
-5.  **Edit Images**: Click "Edit All" to open the editor for each image. Adjust the position and scale of each image within the template.
+5.  **Edit Images**: Click "Edit All" to open the editor for each image. Adjust the position and scale (CTRL+WHEEL) of each image within the template.
 6.  **Generate**: Once you've edited all images, click "Generate and Apply Icons" to create the icons and apply them to the corresponding folders.
 
 ## Result
