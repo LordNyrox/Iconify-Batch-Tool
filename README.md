@@ -4,7 +4,9 @@ Iconify is a simple yet powerful desktop application for Windows that allows you
 
 <img width="802" height="532" alt="image" src="https://github.com/user-attachments/assets/f0f94067-d6a6-4563-bc0f-6072efccf0b1" />
 
-===================================================================================================================================================================================================
+=========================================================================
+
+
 
 ## Features
 
@@ -32,6 +34,13 @@ Iconify is a simple yet powerful desktop application for Windows that allows you
       * *Alternatively, you can drag and drop images and folders into the window.*
 5.  **Edit Images**: Click "Edit All" to open the editor for each image. Adjust the position and scale of each image within the template.
 6.  **Generate**: Once you've edited all images, click "Generate and Apply Icons" to create the icons and apply them to the corresponding folders.
+
+## Result
+
+After the process is complete, the icons for your target folders will be updated. The standard folder icon will be replaced by the custom one you designed.
+
+<img width="1920" height="1032" alt="Screenshot 2025-07-30 233301" src="https://github.com/user-attachments/assets/be456cb6-6b3c-4eb2-ab72-7a04cd24adf4" />
+
 
 ## Dependencies
 
