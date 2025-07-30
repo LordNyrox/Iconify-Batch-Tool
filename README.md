@@ -1,6 +1,7 @@
 # Iconify-Batch-Tool
 
 Iconify is a simple yet powerful desktop application for Windows that allows you to create custom folder icons from your images in batches. It provides an intuitive graphical user interface to apply a template, adjust your images, and generate .ico files that are automatically applied to your selected folders.
+
 <img width="802" height="532" alt="image" src="https://github.com/user-attachments/assets/f0f94067-d6a6-4563-bc0f-6072efccf0b1" />
 
 ===================================================================================================================================================================================================
